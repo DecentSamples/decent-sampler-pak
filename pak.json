@@ -1,0 +1,29 @@
+{
+  "name": "Decent Sampler",
+  "version": "v0.0.0",
+  "type": "TOOL",
+  "description": "The free sample player, on the TrimUI Brick. Plays Decent Sampler instruments from the Brick's buttons or a MIDI keyboard, browses and downloads libraries from the Decent Samples store, and shows each instrument's own interface. Beta.",
+  "author": "Decent Samples",
+  "repo_url": "https://github.com/DecentSamples/decent-sampler-pak",
+  "release_filename": "DecentSampler.pak.zip",
+  "platforms": [
+    "tg5040"
+  ],
+  "features": [
+    "Plays Decent Sampler instruments: the same libraries as the desktop plugin",
+    "The Decent Samples store on the device: browse, download free libraries, sign in to get the ones you own",
+    "Paid libraries work offline once the Brick is added to your account",
+    "Melody and Chords modes: play notes or chords in a key from the face buttons, with strum and arpeggio",
+    "Each instrument's own controls, from its interface",
+    "USB MIDI keyboards, and Bluetooth MIDI keyboards, remembered and reconnected",
+    "Libraries and settings live on the SD card outside the pak and survive updates"
+  ],
+  "screenshots": [
+    ".github/screenshots/01.png",
+    ".github/screenshots/02.png",
+    ".github/screenshots/03.png",
+    ".github/screenshots/04.png",
+    ".github/screenshots/05.png",
+    ".github/screenshots/06.png"
+  ]
+}
