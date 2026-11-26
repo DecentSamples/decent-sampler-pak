@@ -1,6 +1,6 @@
 {
   "name": "Decent Sampler",
-  "version": "v0.0.0",
+  "version": "v1.44.0",
   "type": "TOOL",
   "description": "The free sample player, on the TrimUI Brick. Plays Decent Sampler instruments from the Brick's buttons or a MIDI keyboard, browses and downloads libraries from the Decent Samples store, and shows each instrument's own interface. Beta.",
   "author": "Decent Samples",
